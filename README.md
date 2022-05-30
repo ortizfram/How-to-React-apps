@@ -6,8 +6,10 @@
 ```
  npx create-react-app app-name
 ```
-3.
+3. **start server**
  ```
 npm start
 ```
+
+
 
