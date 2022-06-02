@@ -16,12 +16,15 @@ npm start
 ```
 
 ## - in index.js file
+(every time you create a React App)
 1. to connect react app to DOM:
 ```
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 import App from './App';
+
+ReactDOM.render(<App />, document.getElementById('root'));
 ```
 
 
