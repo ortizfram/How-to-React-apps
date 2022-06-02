@@ -1,7 +1,7 @@
 # How-to-React-apps
-
 1. download node.js
 
+## - in terminal
 2.**create react app**
 ```
  npx create-react-app app-name
@@ -15,5 +15,11 @@ npx create-react-app ./
 npm start
 ```
 
+## - in index.js file
+1. to connect react app to DOM:
+```
+import React from 'react';
+import ReactDOM from 'react-dom';
+```
 
 
