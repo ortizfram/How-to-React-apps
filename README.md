@@ -15,7 +15,7 @@ npx create-react-app ./
 npm start
 ```
 
-## - In index.js file
+## - In index.js file (in source folder)
 (every time you create a React App)
 1. to connect react app to DOM:
 ```
@@ -29,5 +29,8 @@ ReactDOM.render(<App />, document.getElementById('root'));
 
 ## - BODY html (only type in ROOT div)
 
+## - App.js (in source folder)
+
+`rafce` is shortcut for creating <ins>React functions<ins/>
 
 
