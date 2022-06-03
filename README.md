@@ -32,5 +32,15 @@ ReactDOM.render(<App />, document.getElementById('root'));
 ## - App.js (in source folder)
 
 `rafce` is shortcut for creating <ins>React functions<ins/>
+ 
+ ## - Install Dependencies (in terminal)
+ 
+ you can see it in <ins>package.json<ins/>
+ 
+ `npm install`
+ ```
+ npm install react-icons
+ ```
+ 
 
 
