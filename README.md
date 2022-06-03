@@ -1,7 +1,7 @@
 # How-to-React-apps
 1. download node.js
 
-## - in terminal
+## - In terminal :terminal:
 2.**create react app**
 ```
  npx create-react-app app-name
@@ -15,7 +15,7 @@ npx create-react-app ./
 npm start
 ```
 
-## - in index.js file
+## - In index.js file
 (every time you create a React App)
 1. to connect react app to DOM:
 ```
@@ -26,6 +26,8 @@ import App from './App';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
+
+## - BODY html (only type in ROOT div)
 
 
 
